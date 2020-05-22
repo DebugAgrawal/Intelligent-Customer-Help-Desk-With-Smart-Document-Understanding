@@ -15,7 +15,7 @@ At the end this Chatbot is integrated to a webpage with the help of "Node-Red" w
 use of these major resources is done 
 And finally a user friendly Chatbot was built.
 
-The Node-Red flow : https://helpdesk-nodered.eu-gb.mybluemix.net/red/#flow/26f76e78.f9b3f2 
+The Node-Red flow : https://helpdesk-nodered.eu-gb.mybluemix.net/red/#flow/26f76e78.f9b3f2
 
 The ChatBot       : https://helpdesk-nodered.eu-gb.mybluemix.net/ui/#!/0?socketid=t-16t-JJU_8pMhBqAAAX
 
