@@ -15,6 +15,7 @@ use of these major resources is done
 And finally a user friendly Chatbot was built.
 
 ```
+---
 ###  Try it yourself or learn to make your own from the tutorial
 
 * [*The Node-Red flow*](https://helpdesk-nodered.eu-gb.mybluemix.net/red/#flow/26f76e78.f9b3f2)
@@ -23,6 +24,7 @@ And finally a user friendly Chatbot was built.
 
 * [*The Tutorial*](https://youtu.be/mFO2dqX9YOI)
 
+---
 ```
 As the data (Document) fed is of Heater,
 Try following Questions :
