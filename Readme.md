@@ -18,8 +18,6 @@ And finally a user friendly Chatbot was built.
 ---
 ###  Try it yourself or learn to make your own from the tutorial
 
-* [*The Node-Red flow*](https://helpdesk-nodered.eu-gb.mybluemix.net/red/#flow/26f76e78.f9b3f2)
-
 * [*The ChatBot*](https://helpdesk-nodered.eu-gb.mybluemix.net/ui/#!/0?socketid=t-16t-JJU_8pMhBqAAAX)
 
 * [*The Tutorial*](https://youtu.be/mFO2dqX9YOI)
